@@ -1,7 +1,7 @@
 'use strict'
 
 const currentPath = window.location.pathname;
-if(currentPath === "/3D-Visualization-Portfolio/" || currentPath === '/'){
+if(currentPath === "/3D-Visualization-Portfolio/" || currentPath === '/' || currentPath === '/3D-Visualization-Portfolio/index.html'){
   //Carousel
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.carousel');
