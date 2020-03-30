@@ -1,4 +1,4 @@
-'use strict'
+
 
 const currentPath = window.location.pathname || '/';
 if(currentPath === "/index.html" || currentPath === '/'){
