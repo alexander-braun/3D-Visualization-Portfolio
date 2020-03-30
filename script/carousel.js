@@ -1,7 +1,7 @@
+'use strict'
 
-
-const currentPath = window.location.pathname || '/';
-if(currentPath === "/index.html" || currentPath === '/'){
+const currentP = window.location.pathname || '/';
+if(currentP === "/index.html" || currentP === '/'){
   //Carousel
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.carousel');
