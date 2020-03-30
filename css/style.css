@@ -603,3 +603,22 @@ nav .nav-text .active a {
   margin-bottom: 5px;
 }
 /*# sourceMappingURL=style.css.map */
+
+@media only screen and (max-width: 600px) {
+  .card-container {
+    padding: 1.5rem 0 !important;
+  }
+
+  .card-container .card-elements .cardImage img {
+    height: 20rem;
+  }
+
+  .select-wrapper input.select-dropdown {
+    font-size: 1.5rem;
+  }
+
+  nav .nav-wrapper{
+    padding: 0 0;
+    width: 100%;
+  }
+}
