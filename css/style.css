@@ -201,7 +201,7 @@ nav .nav-text .active a {
   position: relative;
   margin: auto;
   min-height: 100%;
-  width: 70vw;
+  width: 95vw;
 }
 
 .closedModal {
@@ -286,7 +286,7 @@ nav .nav-text .active a {
 .img-responsive {
   max-width: 100%;
   height: auto;
-  max-height: 90vh;
+  max-height: 100vh;
   -o-object-fit: contain;
      object-fit: contain;
   display: block;
@@ -349,7 +349,7 @@ nav .nav-text .active a {
 }
 
 .select-wrapper {
-  width: 50%;
+  width: 60%;
   margin: auto;
 }
 
