@@ -1,8 +1,9 @@
 'use strict'
 
 const currentP = window.location.pathname || '/';
-if(currentP === "/index.html" || currentP === '/'){
+if(currentP === "/index.html" || currentP === '/' || currentP === '/3D-Visualization-Portfolio/' || currentP === '/3D-Visualization-Portfolio/index.html'){
   //Carousel
+  console.log('right path')
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.carousel');
     var instances = M.Carousel.init(elems, {indicators: true, fullWidth: true, numVisible: 1, padding: 200});
