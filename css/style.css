@@ -332,6 +332,7 @@ nav .nav-text .active a {
   width: fit-content;
   padding: 1.5rem;
   margin: auto;
+  line-height: 1.5;
 }
 
 .info p {
@@ -339,7 +340,7 @@ nav .nav-text .active a {
   font-family: "Raleway", sans serif;
   font-weight: 200;
   text-align: center;
-  line-height: 1rem;
+  line-height: 1.5;
   color: #3d3d3d;
 }
 
