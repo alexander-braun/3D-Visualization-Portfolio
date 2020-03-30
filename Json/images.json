@@ -1,0 +1,268 @@
+{
+  "images":{
+    "img01": {
+      "pathName": "img-01-restaurant.jpg",
+      "card-title": "Restaurant",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Restaurant photo reconstruction",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Special"]
+    },
+    "img02": {
+      "pathName": "img-02-kitchen.jpg",
+      "card-title": "Kitchen",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Helin Architects Redi Towers",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Kitchen", "Commercial"]
+    },
+    "img03": {
+      "pathName": "img-03-hotelroom.jpg",
+      "card-title": "Hotel Bedroom",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Hotel-Room visualization for interior designer.",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Sleeping", "Living"]
+    },
+    "img04": {
+      "pathName": "img-04-bathroom-hotel.jpg",
+      "card-title": "Hotel Bathroom",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Bathroom visualization for interior designer.",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Bathroom"]
+    },
+    "img05": {
+      "pathName": "img-05-church.jpg",
+      "card-title": "Strängnäs Cathedral Sweden",
+      "imageFor": "Karin Krokfors Architects Ltd",
+      "imageContent": "Competition visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial", "Competition", "Special"]
+    },
+    "img06": {
+      "pathName": "img-06-terrace.jpg",
+      "card-title": "Terrace",
+      "imageFor": "Eve-Images Berlin",
+      "imageContent": "Terrace visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial"]
+    },
+    "img07": {
+      "pathName": "img-07-living.jpg",
+      "card-title": "Living",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Helin Architects' \"Redi\" Towers",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img08": {
+      "pathName": "img-08-school.jpg",
+      "card-title": "School Auditorium",
+      "imageFor": "Karin Krokfors Architects Ltd",
+      "imageContent": "Competition visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Competition", "Special"]
+    },
+    "img09": {
+      "pathName": "img-09-dining-kitchen.jpg",
+      "card-title": "Dining-Kitchen",
+      "imageFor": "Eve-Images Berlin",
+      "imageContent": "Kitchen visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living", "Kitchen"]
+    },
+    "img10": {
+      "pathName": "img-10-bedroom.jpg",
+      "card-title": "Bedroom",
+      "imageFor": "Eve-Images Berlin",
+      "imageContent": "Bedroom visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Sleeping"]
+    },
+    "img11": {
+      "pathName": "img-11-bedroom.jpg",
+      "card-title": "Bedroom",
+      "imageFor": "Study",
+      "imageContent": "Bedroom visualization",
+      "imageCategory": "Personal",
+      "options" : ["Interior", "Personal", "Sleeping"]
+    },
+    "img12": {
+      "pathName": "img-12-shopping.jpg",
+      "card-title": "Shopping mall",
+      "imageFor": "Sarc Architects",
+      "imageContent": "Shopping mall in Helsinki",
+      "imageCategory": "Commercial",
+      "options" : ["Commercial", "Competition", "Special"]
+    },
+    "img13": {
+      "pathName": "img-13-kitchen-living.jpg",
+      "card-title": "Living space",
+      "imageFor": "Sarc Architects",
+      "imageContent": "Appartement visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img14": {
+      "pathName": "img-14-appartement-house.jpg",
+      "card-title": "Living space",
+      "imageFor": "Pure Render Berlin",
+      "imageContent": "Appartement building visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial"]
+    },
+    "img15": {
+      "pathName": "img-15-living.jpg",
+      "card-title": "Living space",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Helin Architects' \"Redi\" Towers",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img16": {
+      "pathName": "img-16-living.jpg",
+      "card-title": "Living space",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Helin Architects' \"Redi\" Towers",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img17": {
+      "pathName": "img-17-pfaff.jpg",
+      "card-title": "New Pfaff Area",
+      "imageFor": "Pure Render Berlin",
+      "imageContent": "Pfaff Areal Keiserslautern",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial", "Special"]
+    },
+    "img18": {
+      "pathName": "img-18-exterior.jpg",
+      "card-title": "Appartement Houses",
+      "imageFor": "Pure Render Berlin",
+      "imageContent": "Appartement Houses in Lichtenberg",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial"]
+    },
+    "img19": {
+      "pathName": "img-19-interior.jpg",
+      "card-title": "Living Space",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Living space for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img20": {
+      "pathName": "img-20-cantine.jpg",
+      "card-title": "Public Dining",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Public dining area for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Special", "Kitchen"]
+    },
+    "img21": {
+      "pathName": "img-21-public.jpg",
+      "card-title": "Public Living",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Public living area for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Special", "Living"]
+    },
+    "img22": {
+      "pathName": "img-22-bath.jpg",
+      "card-title": "Bathroom",
+      "imageFor": "Pure Render Berlin",
+      "imageContent": "Bath Area with nice view",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Bathroom", "Living"]
+    },
+    "img23": {
+      "pathName": "img-23-shopping.jpg",
+      "card-title": "Shopping Mall",
+      "imageFor": "Sarc Architects Helsinki",
+      "imageContent": "New Shopping Mall in Helsinki",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial", "Special"]
+    },
+    "img24": {
+      "pathName": "img-24-appartement.jpg",
+      "card-title": "Appartement Building",
+      "imageFor": "Sarc Architects Helsinki",
+      "imageContent": "Appartement Building in Helsinki",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial"]
+    },
+    "img25": {
+      "pathName": "img-25-living.jpg",
+      "card-title": "Living",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Interior for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Kitchen", "Living"]
+    },
+    "img26": {
+      "pathName": "img-26-balcony.jpg",
+      "card-title": "Balcony",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Balcony view for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Exterior", "Commercial"]
+    },
+    "img27": {
+      "pathName": "img-27-kitchen.jpg",
+      "card-title": "Kitchen",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Kitchen for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Kitchen", "Living"]
+    },
+    "img28": {
+      "pathName": "img-28-living.jpg",
+      "card-title": "Living",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Living area for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img29": {
+      "pathName": "img-29-living.jpg",
+      "card-title": "Living",
+      "imageFor": "Eve Images Berlin",
+      "imageContent": "Living area for scandinavian client",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Living"]
+    },
+    "img30": {
+      "pathName": "img-30-office.jpg",
+      "card-title": "Office",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Office Area for Helin Architects",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial"]
+    },
+    "img31": {
+      "pathName": "img-31-interior.jpg",
+      "card-title": "Personal Project",
+      "imageFor": "Appartement 3D Reconstruction",
+      "imageContent": "Living, Kitchen, Sleeping Area",
+      "imageCategory": "Personal",
+      "options" : ["Interior", "Personal", "Kitchen", "Living", "Special"]
+    },
+    "img32": {
+      "pathName": "img-32-little-dude.jpg",
+      "card-title": "Figure Sculpt",
+      "imageFor": "Zbrush",
+      "imageContent": "Little Dude",
+      "imageCategory": "Personal",
+      "options" : ["Personal", "Special"]
+    },
+    "img33": {
+      "pathName": "img-33-bedroom.jpg",
+      "card-title": "Personal Project",
+      "imageFor": "Interior 3D Reconstruction",
+      "imageContent": "Bedroom ceiling view",
+      "imageCategory": "Personal",
+      "options" : ["Personal", "Interior", "Living"]
+    }
+  }
+}

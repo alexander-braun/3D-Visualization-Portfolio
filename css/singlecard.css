@@ -1,0 +1,176 @@
+.card-container {
+  padding: .75rem !important;
+}
+
+.card-container .card-elements {
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-container .card-elements:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.card-container .card-elements .cardImage {
+  -webkit-transition: 200ms;
+  transition: 200ms;
+}
+
+.card-container .card-elements .cardImage img {
+  width: 100%;
+  height: auto;
+  -webkit-transition-duration: 200ms;
+          transition-duration: 200ms;
+  cursor: pointer;
+}
+
+.card-container .card-elements a.btn-floating {
+  -webkit-transition-duration: 0ms;
+          transition-duration: 0ms;
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+
+.card-container .card-elements .btn-anim {
+  -webkit-animation: scale-out-center 200ms;
+          animation: scale-out-center 200ms;
+}
+
+.card-container .card-elements .btn-floating {
+  margin-left: auto;
+  float: left;
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+.hidden {
+  padding: 1rem;
+  position: absolute;
+  float: left;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color: white;
+}
+
+.hidden p {
+  margin: 0;
+}
+
+.cardContent {
+  opacity: 0;
+  -webkit-transition-duration: 200ms;
+          transition-duration: 200ms;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+
+.cardContent .imageFor {
+  font-family: "Roboto", sans serif;
+  font-size: .7rem;
+  font-style: italic;
+}
+
+.cardContent .imageCategory {
+  font-family: "Roboto", sans serif;
+  font-size: .7rem;
+}
+
+.cardContent .imageContent {
+  font-family: "Roboto", sans serif;
+  font-size: 1.2rem;
+}
+
+.cardContentUnhide {
+  background-color: #ffffffbd;
+  opacity: 1;
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+
+.card-elements:hover .cardImage {
+  opacity: 0.95;
+}
+
+.card-elements:hover .cardImage img {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.cross {
+  -webkit-transition-duration: 200ms;
+          transition-duration: 200ms;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.card-elements:hover > a.btn-anim {
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
+  animation: scale-up-center 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
+}
+
+@-webkit-keyframes scale-out-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+@keyframes scale-out-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  40% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  40% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+/*# sourceMappingURL=singlecard.css.map */

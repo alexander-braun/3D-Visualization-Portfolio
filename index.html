@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <!--Import Google Icon Font-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./script/navInit.js"></script>
+  <script src="./script/carousel.js"></script>
+  <title>Portfolio Alexander Braun</title>
+</head>
+<body>
+  <header>
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper border container">
+          <a href="index.html" class="brand-logo">
+            <img src="./img/logo/unterschrift.png" alt="signature" class="logo">
+          </a>
+          <a href="index.html" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+          <ul class="right hide-on-med-and-down nav-text" id="navbarMain">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <ul class="sidenav" id="mobile-demo">
+      <li><a href="index.html">Main</a></li>
+      <li><a href="gallery.html">All Works</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </header>
+  <main>
+    <div class="container gallery valign-wrapper">
+      <div class="carousel-fixed-item center middle-indicator indicators hide-on-small-only">
+        <div class="left">
+          <a href="#" class="movePrevCarousel">
+            <i class="material-icons left  middle-indicator-text">navigate_before</i>
+          </a>
+        </div>
+        <div class="right" >
+          <a href="#" class="moveNextCarousel">
+            <i class="material-icons right middle-indicator-text">navigate_next</i>
+          </a>
+        </div>
+      </div>
+      <div class="carousel carousel-slider">
+        <a class="carousel-item modal-trigger valign-wrapper">
+          <img class="responsive-img mod" src="./img/pictures/img-01-restaurant.jpg">
+        </a>
+        <a class="carousel-item modal-trigger valign-wrapper">
+          <img class="responsive-img mod" src="./img/pictures/img-02-kitchen.jpg">
+        </a>
+        <a class="carousel-item modal-trigger valign-wrapper">
+          <img class="responsive-img mod" src="./img/pictures/img-03-hotelroom.jpg">
+        </a>
+        <a class="carousel-item modal-trigger valign-wrapper">
+          <img class="responsive-img mod" src="./img/pictures/img-05-church.jpg">
+        </a>
+      </div>
+    </div>
+    <div id="modals">
+      <div id="modal1" class="modal">
+        <div class="modal-content">
+          <img class="img-responsive" id="modImage">
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col s12 footerMail">
+          <p class="text">alexanderbraun(at)freenet.de</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="./script/script.js"></script>
+</body>
+</html>
