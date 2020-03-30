@@ -1,8 +1,9 @@
 'use strict'
 
-const currentPath = window.location.pathname;
-if(currentPath === "/3D-Visualization-Portfolio/" || currentPath === '/' || currentPath === '/3D-Visualization-Portfolio/index.html'){
+const current = window.location.pathname;
+if(current === "/3D-Visualization-Portfolio/" || current === '/' || current === '/3D-Visualization-Portfolio/index.html'){
   //Carousel
+  console.log('carousel init')
   document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.carousel');
     var instances = M.Carousel.init(elems, {indicators: true, fullWidth: true, numVisible: 1, padding: 200});
