@@ -42,14 +42,6 @@ img {
   justify-content: center;
 }
 
-.about h1 {
-  text-align: right;
-}
-
-.contact_info {
-  
-}
-
 .contact_info h6 {
   margin: 1em 0;
   text-decoration: underline;
@@ -77,7 +69,6 @@ img {
 .contact {
   margin-top: 10vh;
   letter-spacing: .05em;
-  text-align: right;
 }
 
 .about_create {
@@ -590,7 +581,6 @@ nav .nav-text .active a {
 }
 
 .page-footer .footerMail {
-  text-align: right;
   padding: 5px 2rem 5px 2rem;
 }
 
