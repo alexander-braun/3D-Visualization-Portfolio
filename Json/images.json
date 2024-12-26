@@ -1,5 +1,45 @@
 {
   "images":{    
+    "img01": {
+      "pathName": "img-01-restaurant.jpg",
+      "card-title": "Restaurant",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Restaurant photo reconstruction",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Special"]
+    },
+    "img02": {
+      "pathName": "img-02-kitchen.jpg",
+      "card-title": "Kitchen",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Helin Architects Redi Towers",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Kitchen", "Commercial"]
+    },
+    "img03": {
+      "pathName": "img-03-hotelroom.jpg",
+      "card-title": "Hotel Bedroom",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Hotel-Room visualization for interior designer.",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Sleeping", "Living"]
+    },
+    "img04": {
+      "pathName": "img-04-bathroom-hotel.jpg",
+      "card-title": "Hotel Bathroom",
+      "imageFor": "Voima Graphics Helsinki",
+      "imageContent": "Bathroom visualization for interior designer.",
+      "imageCategory": "Commercial",
+      "options" : ["Interior", "Commercial", "Bathroom"]
+    },
+    "img05": {
+      "pathName": "img-05-church.jpg",
+      "card-title": "Strängnäs Cathedral Sweden",
+      "imageFor": "Karin Krokfors Architects Ltd",
+      "imageContent": "Competition visualization",
+      "imageCategory": "Commercial",
+      "options" : ["Exterior", "Commercial", "Competition", "Special"]
+    },
     "img43": {
       "pathName": "2543-01-OBO-i-02_ByggA_Apt_8th_floor_dining_kitchen_R01.jpg",
       "card-title": "Living-Kitchen",
@@ -175,46 +215,6 @@
       "imageContent": "Opposite Street View",
       "imageCategory": "Commercial",
       "options" : ["Exterior"]
-    },
-    "img01": {
-      "pathName": "img-01-restaurant.jpg",
-      "card-title": "Restaurant",
-      "imageFor": "Voima Graphics Helsinki",
-      "imageContent": "Restaurant photo reconstruction",
-      "imageCategory": "Commercial",
-      "options" : ["Interior", "Commercial", "Special"]
-    },
-    "img02": {
-      "pathName": "img-02-kitchen.jpg",
-      "card-title": "Kitchen",
-      "imageFor": "Voima Graphics Helsinki",
-      "imageContent": "Helin Architects Redi Towers",
-      "imageCategory": "Commercial",
-      "options" : ["Interior", "Kitchen", "Commercial"]
-    },
-    "img03": {
-      "pathName": "img-03-hotelroom.jpg",
-      "card-title": "Hotel Bedroom",
-      "imageFor": "Voima Graphics Helsinki",
-      "imageContent": "Hotel-Room visualization for interior designer.",
-      "imageCategory": "Commercial",
-      "options" : ["Interior", "Commercial", "Sleeping", "Living"]
-    },
-    "img04": {
-      "pathName": "img-04-bathroom-hotel.jpg",
-      "card-title": "Hotel Bathroom",
-      "imageFor": "Voima Graphics Helsinki",
-      "imageContent": "Bathroom visualization for interior designer.",
-      "imageCategory": "Commercial",
-      "options" : ["Interior", "Commercial", "Bathroom"]
-    },
-    "img05": {
-      "pathName": "img-05-church.jpg",
-      "card-title": "Strängnäs Cathedral Sweden",
-      "imageFor": "Karin Krokfors Architects Ltd",
-      "imageContent": "Competition visualization",
-      "imageCategory": "Commercial",
-      "options" : ["Exterior", "Commercial", "Competition", "Special"]
     },
     "img06": {
       "pathName": "img-06-terrace.jpg",
