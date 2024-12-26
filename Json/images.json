@@ -40,6 +40,14 @@
       "imageCategory": "Commercial",
       "options" : ["Exterior", "Commercial", "Competition", "Special"]
     },
+    "img11": {
+      "pathName": "img-11-bedroom.jpg",
+      "card-title": "Bedroom",
+      "imageFor": "Study",
+      "imageContent": "Bedroom visualization",
+      "imageCategory": "Personal",
+      "options" : ["Interior", "Personal", "Sleeping"]
+    },
     "img43": {
       "pathName": "2543-01-OBO-i-02_ByggA_Apt_8th_floor_dining_kitchen_R01.jpg",
       "card-title": "Living-Kitchen",
@@ -255,14 +263,6 @@
       "imageContent": "Bedroom visualization",
       "imageCategory": "Commercial",
       "options" : ["Interior", "Commercial", "Sleeping"]
-    },
-    "img11": {
-      "pathName": "img-11-bedroom.jpg",
-      "card-title": "Bedroom",
-      "imageFor": "Study",
-      "imageContent": "Bedroom visualization",
-      "imageCategory": "Personal",
-      "options" : ["Interior", "Personal", "Sleeping"]
     },
     "img12": {
       "pathName": "img-12-shopping.jpg",
